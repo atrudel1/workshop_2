@@ -24,3 +24,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+I was angry with my friend;   
+I told my wrath, my wrath did end.   
+I was angry with my foe:   
+I told it not, my wrath did grow.   
+And I waterd it in fears,   
+Night & morning with my tears:   
+And I sunned it with smiles,   
+And with soft deceitful wiles.   
+
